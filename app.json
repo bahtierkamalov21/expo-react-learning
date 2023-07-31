@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "expo-react-learning",
+    "slug": "expo-react-learning",
+    "plugins": [
+      "expo-router",
+      "expo-location"
+    ],
+    "android": {
+      "package": "com.anonymous.exporeactlearning"
+    },
+    "ios": {
+      "bundleIdentifier": "com.anonymous.exporeactlearning"
+    }
+  }
+}
